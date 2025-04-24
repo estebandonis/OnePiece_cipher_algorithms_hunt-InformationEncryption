@@ -1,0 +1,4 @@
+Luffy_flag: FLAG_b80e80d5d3f903350f9c420a4057578d
+Zoro_flag: FLAG_6b0534b1cf8b97340c5193da7c7f91c0
+Usopp_flag: FLAG_d715d732cfd4cbbae049cea4fc92633c
+Nami_flag: FLAG_88489f4c1d003215d1fc7125a972d968
